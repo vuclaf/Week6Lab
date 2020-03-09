@@ -1,0 +1,40 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-8-openjdk-amd64/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.11.jar:/usr/share/bluej/hamcrest-core-1.3.jar:/usr/share/bluej/lang-stride.jar:/usr/share/bluej/userlib/pi4j-gpio-extension.jar:/usr/share/bluej/userlib/pi4j-service.jar:/usr/share/bluej/userlib/pi4j-device.jar:/usr/share/bluej/userlib/pi4j-core.jar:/home/compsci/Week6
+-d
+/home/compsci/Week6/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/home/compsci/Week6/MyQueue.java
+<---- end of javadoc command ---->
+Loading source file /home/compsci/Week6/MyQueue.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_242
+Building tree for all the packages and classes...
+Generating /home/compsci/Week6/doc/MyQueue.html...
+/home/compsci/Week6/MyQueue.java:7: warning - @Author is an unknown tag -- same as a known tag except for case.
+/home/compsci/Week6/MyQueue.java:19: warning - @param argument "the" is not a parameter name.
+Generating /home/compsci/Week6/doc/package-frame.html...
+Generating /home/compsci/Week6/doc/package-summary.html...
+Generating /home/compsci/Week6/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /home/compsci/Week6/doc/allclasses-frame.html...
+Generating /home/compsci/Week6/doc/allclasses-noframe.html...
+Generating /home/compsci/Week6/doc/index.html...
+2 warnings

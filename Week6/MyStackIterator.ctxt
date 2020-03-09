@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyStackIterator
+comment0.text=\n\ Ehe\ iterator\ for\ the\ MyLinkedStack\ class\n\n\ @author\ EvanVu\n
+comment1.params=myStack
+comment1.target=MyStackIterator(MyStack)
+comment1.text=\n\ Constructor\ for\ the\ iterator\n\ @param\ the\ stack\ that\ the\ iterator\ iterates\n
+comment2.params=
+comment2.target=boolean\ hasNext()
+comment2.text=\n\ Check\ if\ there\ is\ still\ an\ element\ in\ the\ stack\n\ @return\ true\ if\ there\ is\ still\ element\ in\ the\ stack,\ false\ if\ not\n
+comment3.params=
+comment3.target=java.lang.Object\ next()
+comment3.text=\n\ Return\ the\ current\ node\ and\ move\ on\ to\ the\ next\ node\n\ @return\ the\ current\ node\n
+comment4.params=
+comment4.target=void\ remove()
+comment4.text=\n\ Remove\ the\ current\ node\n
+numComments=5

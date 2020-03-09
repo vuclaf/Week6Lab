@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyQueue
+comment0.text=\n\ Implementation\ of\ a\ Queue\n\ \n\ @Author\ EvanVu\n
+comment1.params=
+comment1.target=MyQueue()
+comment2.params=item
+comment2.target=java.lang.Object\ add(java.lang.Object)
+comment2.text=\n\ Add\ a\ new\ node\ to\ the\ end\ of\ the\ queue\n\ @param\ the\ value\ of\ the\ node\ being\ added\n\ @return\ the\ value\ of\ the\ node\ being\ added\n
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment3.text=\n\ Get\ the\ value\ of\ the\ Node\ at\ the\ top\ of\ the\ queue\n\ @return\ the\ value\ of\ the\ node\ at\ the\ top\ of\ the\ queue\n
+comment4.params=
+comment4.target=java.lang.Object\ remove()
+comment4.text=\n\ Remove\ the\ node\ at\ the\ top\ of\ the\ queue\n\ @return\ the\ item\ of\ the\ removed\ node\n
+numComments=5

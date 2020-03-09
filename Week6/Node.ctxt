@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\n\ A\ Node\ class\ that\ has\ singly\ linked\ Node\ instances.\n\ Each\ Node\ carries\ a\ value\ and\ a\ field\ that\ contains\ the\ address\ of\ the\ next\ node.\n
+comment1.params=value\ next
+comment1.target=Node(java.lang.Object,\ Node)
+comment1.text=\n\ Constructor\ for\ the\ Node\ class\n\ @param\ Value\ v\ that\ the\ Node\ contains\ and\ the\ Node\ next\ to\ it\n
+comment2.params=value
+comment2.target=void\ setValue(java.lang.Object)
+comment2.text=\n\ A\ method\ that\ set\ the\ value\ of\ the\ node\n\ @param\ New\ value\ v\ that\ the\ Node\ will\ contain\n
+comment3.params=next
+comment3.target=void\ setNext(Node)
+comment3.text=\n\ A\ method\ that\ set\ the\ linked\ node\ that\ this\ node\ contains\n\ @param\ Node\ next\ that\ will\ be\ linked\ to\ this\ node\n
+comment4.params=
+comment4.target=java.lang.Object\ getValue()
+comment4.text=\n\ A\ method\ to\ get\ the\ value\ that\ the\ node\ contains\n\ @return\ Value\ v\ that\ the\ Node\ contains\n
+comment5.params=
+comment5.target=Node\ getNext()
+comment5.text=\n\ A\ method\ to\ get\ the\ next\ node\ that\ is\ linked\ to\ this\ one\n\ @return\ the\ Node\ that\ this\ node\ is\ linked\ to\ \n
+numComments=6
